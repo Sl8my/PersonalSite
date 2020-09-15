@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1784ea8.chunk.css",
+    "main.js": "/static/js/main.edb3b6ef.chunk.js",
+    "main.js.map": "/static/js/main.edb3b6ef.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e9a18e3a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e9a18e3a.js.map",
+    "static/css/2.7b1f77b4.chunk.css": "/static/css/2.7b1f77b4.chunk.css",
+    "static/js/2.79754841.chunk.js": "/static/js/2.79754841.chunk.js",
+    "static/js/2.79754841.chunk.js.map": "/static/js/2.79754841.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3a39d3b38fcd6dc832880dbdf6af8e29.js": "/precache-manifest.3a39d3b38fcd6dc832880dbdf6af8e29.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.7b1f77b4.chunk.css.map": "/static/css/2.7b1f77b4.chunk.css.map",
+    "static/css/main.d1784ea8.chunk.css.map": "/static/css/main.d1784ea8.chunk.css.map",
+    "static/js/2.79754841.chunk.js.LICENSE.txt": "/static/js/2.79754841.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/static/media/arrow.a74212b6.svg",
+    "static/media/contact-info-icon1.svg": "/static/media/contact-info-icon1.04e4f259.svg",
+    "static/media/contact-info-icon2.svg": "/static/media/contact-info-icon2.df4fdedf.svg",
+    "static/media/contact-info-icon3.svg": "/static/media/contact-info-icon3.3cf93bcf.svg",
+    "static/media/django-01.svg": "/static/media/django-01.10e6c78a.svg",
+    "static/media/docker-icon-01.svg": "/static/media/docker-icon-01.580c3af4.svg",
+    "static/media/git-icon-01.svg": "/static/media/git-icon-01.623f38d4.svg",
+    "static/media/hero-image-01.png": "/static/media/hero-image-01.fd25daa5.png",
+    "static/media/javascript-01.svg": "/static/media/javascript-01.994e1394.svg",
+    "static/media/logo-01.svg": "/static/media/logo-01.f5da8dc0.svg",
+    "static/media/logo-yellow-01.svg": "/static/media/logo-yellow-01.732b38f0.svg",
+    "static/media/mobile-close.svg": "/static/media/mobile-close.f521cf45.svg",
+    "static/media/mobile-menu.svg": "/static/media/mobile-menu.10823520.svg",
+    "static/media/preview-01.png": "/static/media/preview-01.ea418dac.png",
+    "static/media/python-01.svg": "/static/media/python-01.1bcac5b0.svg",
+    "static/media/react-01.svg": "/static/media/react-01.c1907e51.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9a18e3a.js",
+    "static/css/2.7b1f77b4.chunk.css",
+    "static/js/2.79754841.chunk.js",
+    "static/css/main.d1784ea8.chunk.css",
+    "static/js/main.edb3b6ef.chunk.js"
+  ]
+}
